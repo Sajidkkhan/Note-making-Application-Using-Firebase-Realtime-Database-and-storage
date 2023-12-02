@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124352799436",
+    "project_id": "uetm-project",
+    "storage_bucket": "uetm-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124352799436:android:d366fa7b72dc7a22c51869",
+        "android_client_info": {
+          "package_name": "com.uetm.firebase.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkrdxr7dwTKa-xOtciSR3St6D-WSP3BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
